@@ -3,10 +3,12 @@ This is a real time chat application with username and connect/disconnect messag
 ***
 
 <p>Open the terminal, to the current directory and then :</p>
+
 '''
 >npm init<br>
 >npm i socket.io<br>
 >npm i --save-dev nodemo<br>
+
 '''
 ***
 ### Connect with me on social media 📲 :-
